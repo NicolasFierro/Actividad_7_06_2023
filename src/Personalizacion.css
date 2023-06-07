@@ -1,0 +1,14 @@
+Footer {
+    color: green;
+    text-align:center;
+}
+
+header {
+    color: brown;
+    text-align:right;
+
+}
+Main {
+    color: red;
+    text-align: left;
+}
